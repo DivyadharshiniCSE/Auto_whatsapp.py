@@ -98,17 +98,11 @@ def main():
 
         # Define a list of recipients with their WhatsApp numbers and names
         recipients = [
-            {"number": "8110904361", "name": "Bhavani"},
-            {"number": "8668041941", "name": "Sadhana"},
-            {"number": "9363526868", "name": "Pragadheeshwari"},
-            {"number": "8220908634", "name": "Rithi Sri"},
-            {"number": "9597698585", "name": "Kalai selvi"},
-            {"number": "6374786732", "name": "Hema Vardhani"},
-            {"number": "9751659796", "name": "Gayathri Devi"},
-            {"number": "6382333257", "name": "Janani"},
-            {"number": "8220494007", "name": "Sridevi"},
-            {"number": "9080609776", "name": "Nishanthini"},
-            {"number": "8122570708", "name": "Saraswathi"}
+            {"number": "126828392039", "name": "Bhavani"},
+            {"number": "63429390940", "name": "Sadhana"},
+            {"number": "263478294902", "name": "Pragadheeshwari"},
+            {"number": "632488202", "name": "Rithi Sri"},
+            
         ]
 
         # Greeting message
